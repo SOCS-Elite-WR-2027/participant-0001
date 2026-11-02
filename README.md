@@ -26,4 +26,4 @@ repositories are visible to anyone.
 Add the exact build/run instructions for this app here.
 
 
-hy sample run
+hy sample run mark 1
