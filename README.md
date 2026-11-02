@@ -24,3 +24,6 @@ repositories are visible to anyone.
 ## Build and run
 
 Add the exact build/run instructions for this app here.
+
+
+hy sample run
